@@ -1,0 +1,129 @@
+{"current_lesson_id": "L2.02", "message": "ابي اعرف افر بين ت و ة", "expected_intent": "switch", "expected_lesson_id": "L3.07"}
+{"current_lesson_id": "L1.01", "message": "متى اكتب الهمزة على واو", "expected_intent": "switch", "expected_lesson_id": "L4.03"}
+{"current_lesson_id": "L0.03", "message": "I want to learn tanween", "expected_intent": "switch", "expected_lesson_id": "L3.04"}
+{"current_lesson_id": "L3.01", "message": "ودي اتعلم الباء والتاء", "expected_intent": "switch", "expected_lesson_id": "L0.01"}
+{"current_lesson_id": "L2.03", "message": "كيف ارسم الثاء", "expected_intent": "switch", "expected_lesson_id": "L0.01"}
+{"current_lesson_id": "L1.02", "message": "الجيم نقطته تحت ولا جوا", "expected_intent": "switch", "expected_lesson_id": "L0.02"}
+{"current_lesson_id": "L3.05", "message": "حرف الخاء كيف ينكتب", "expected_intent": "switch", "expected_lesson_id": "L0.02"}
+{"current_lesson_id": "L0.01", "message": "الراء والزاي وش الفرق", "expected_intent": "switch", "expected_lesson_id": "L0.03"}
+{"current_lesson_id": "L4.02", "message": "Teach me the letter daal", "expected_intent": "switch", "expected_lesson_id": "L0.03"}
+{"current_lesson_id": "L0.02", "message": "الشين كم نقطه", "expected_intent": "switch", "expected_lesson_id": "L0.04"}
+{"current_lesson_id": "L1.03", "message": "ابغى اتعلم الضاد", "expected_intent": "switch", "expected_lesson_id": "L0.04"}
+{"current_lesson_id": "L0.01", "message": "ابي اتعلم حرف الغين", "expected_intent": "switch", "expected_lesson_id": "L0.05"}
+{"current_lesson_id": "L2.01", "message": "How do I write the letter ayn?", "expected_intent": "switch", "expected_lesson_id": "L0.05"}
+{"current_lesson_id": "L0.03", "message": "الفاء والقاف ابي اعرفهم", "expected_intent": "switch", "expected_lesson_id": "L0.06"}
+{"current_lesson_id": "L3.02", "message": "حرف الكاف كيف اكتبه", "expected_intent": "switch", "expected_lesson_id": "L0.06"}
+{"current_lesson_id": "L0.05", "message": "ابي اتعلم النون", "expected_intent": "switch", "expected_lesson_id": "L0.07"}
+{"current_lesson_id": "L2.04", "message": "How do I write meem and noon?", "expected_intent": "switch", "expected_lesson_id": "L0.07"}
+{"current_lesson_id": "L3.07", "message": "وش هو حرف ء لحاله", "expected_intent": "switch", "expected_lesson_id": "L0.08"}
+{"current_lesson_id": "L0.02", "message": "ابي ابدا بالفتحه على الحروف", "expected_intent": "switch", "expected_lesson_id": "L1.01"}
+{"current_lesson_id": "L3.03", "message": "Single letters with fatha please", "expected_intent": "switch", "expected_lesson_id": "L1.01"}
+{"current_lesson_id": "L0.07", "message": "ابي اكتب كلمات زي ذهب وكتب كلها مفتوحه", "expected_intent": "switch", "expected_lesson_id": "L1.02"}
+{"current_lesson_id": "L2.05", "message": "كلمات ثلاثيه كل حرف عليه فتحه", "expected_intent": "switch", "expected_lesson_id": "L1.02"}
+{"current_lesson_id": "L0.06", "message": "ليش رجع تنفصل بعد الراء", "expected_intent": "switch", "expected_lesson_id": "L1.03"}
+{"current_lesson_id": "L3.01", "message": "words with fatha that break after raa or waw", "expected_intent": "switch", "expected_lesson_id": "L1.03"}
+{"current_lesson_id": "L0.08", "message": "ابي اتعلم الكسره", "expected_intent": "switch", "expected_lesson_id": "L2.01"}
+{"current_lesson_id": "L1.02", "message": "What does damma look like on a letter?", "expected_intent": "switch", "expected_lesson_id": "L2.01"}
+{"current_lesson_id": "L1.03", "message": "كلمات نصها مكسور زي حفظ", "expected_intent": "switch", "expected_lesson_id": "L2.02"}
+{"current_lesson_id": "L3.04", "message": "ابي افعال زي فرح وحزن", "expected_intent": "switch", "expected_lesson_id": "L2.02"}
+{"current_lesson_id": "L2.01", "message": "كلمات نصها ضمه زي قرب وبعد", "expected_intent": "switch", "expected_lesson_id": "L2.03"}
+{"current_lesson_id": "L4.01", "message": "verbs with damma in the middle like karuma", "expected_intent": "switch", "expected_lesson_id": "L2.03"}
+{"current_lesson_id": "L2.02", "message": "كيف اكتب زُرِع", "expected_intent": "switch", "expected_lesson_id": "L2.04"}
+{"current_lesson_id": "L1.01", "message": "ابي اتعلم المبني للمجهول زي طُبخ", "expected_intent": "switch", "expected_lesson_id": "L2.04"}
+{"current_lesson_id": "L3.02", "message": "ابي اراجع الحركات القصيره كلها", "expected_intent": "switch", "expected_lesson_id": "L2.05"}
+{"current_lesson_id": "L0.04", "message": "ابي السكون", "expected_intent": "switch", "expected_lesson_id": "L3.01"}
+{"current_lesson_id": "L2.05", "message": "كيف اكتب جلستُ والسين ساكنه", "expected_intent": "switch", "expected_lesson_id": "L3.01"}
+{"current_lesson_id": "L1.01", "message": "What is the little circle called sukun?", "expected_intent": "switch", "expected_lesson_id": "L3.01"}
+{"current_lesson_id": "L2.03", "message": "التشديد كيف", "expected_intent": "switch", "expected_lesson_id": "L3.02"}
+{"current_lesson_id": "L0.06", "message": "how do I write a letter with shadda", "expected_intent": "switch", "expected_lesson_id": "L3.02"}
+{"current_lesson_id": "L3.06", "message": "الف المد في نام وصام", "expected_intent": "switch", "expected_lesson_id": "L3.03"}
+{"current_lesson_id": "L2.01", "message": "حروف المد ابي اعرفها", "expected_intent": "switch", "expected_lesson_id": "L3.03"}
+{"current_lesson_id": "L1.02", "message": "التنوين بالفتح كيف اكتبه", "expected_intent": "switch", "expected_lesson_id": "L3.04"}
+{"current_lesson_id": "L4.05", "message": "قلمٌ وقلماً وش هالعلامات", "expected_intent": "switch", "expected_lesson_id": "L3.04"}
+{"current_lesson_id": "L2.04", "message": "الحروف القمرية", "expected_intent": "switch", "expected_lesson_id": "L3.05"}
+{"current_lesson_id": "L3.01", "message": "ابي اعرف ليش نقول الْبيت باللام", "expected_intent": "switch", "expected_lesson_id": "L3.05"}
+{"current_lesson_id": "L3.04", "message": "الحروف الشمسيه ابي اعرفها", "expected_intent": "switch", "expected_lesson_id": "L3.06"}
+{"current_lesson_id": "L0.01", "message": "Why don't we say the laam in ash-shams?", "expected_intent": "switch", "expected_lesson_id": "L3.06"}
+{"current_lesson_id": "L1.03", "message": "التاء المربوطه", "expected_intent": "switch", "expected_lesson_id": "L3.07"}
+{"current_lesson_id": "L2.05", "message": "when is it ة and when is it ه at the end", "expected_intent": "switch", "expected_lesson_id": "L3.07"}
+{"current_lesson_id": "L3.07", "message": "همزة الوصل", "expected_intent": "switch", "expected_lesson_id": "L4.01"}
+{"current_lesson_id": "L3.03", "message": "ليش اكتب اسم بدون همزه", "expected_intent": "switch", "expected_lesson_id": "L4.01"}
+{"current_lesson_id": "L4.03", "message": "همزة القطع ابي اعرفها", "expected_intent": "switch", "expected_lesson_id": "L4.02"}
+{"current_lesson_id": "L3.06", "message": "When do I write أ at the start of a word?", "expected_intent": "switch", "expected_lesson_id": "L4.02"}
+{"current_lesson_id": "L4.01", "message": "الهمزه بنص الكلمه على نبره ولا واو", "expected_intent": "switch", "expected_lesson_id": "L4.03"}
+{"current_lesson_id": "L3.07", "message": "middle hamza seat rules", "expected_intent": "switch", "expected_lesson_id": "L4.03"}
+{"current_lesson_id": "L4.02", "message": "ليش تساءل همزتها على السطر", "expected_intent": "switch", "expected_lesson_id": "L4.04"}
+{"current_lesson_id": "L4.03", "message": "الهمزه المتطرفه", "expected_intent": "switch", "expected_lesson_id": "L4.05"}
+{"current_lesson_id": "L3.05", "message": "hamza at the end like shaati'", "expected_intent": "switch", "expected_lesson_id": "L4.05"}
+{"current_lesson_id": "L4.02", "message": "إنّ وأنّ متى", "expected_intent": "switch", "expected_lesson_id": "L4.06"}
+{"current_lesson_id": "L4.05", "message": "الالف بعد واو الجماعه", "expected_intent": "switch", "expected_lesson_id": "L4.07"}
+{"current_lesson_id": "L3.04", "message": "ليش كتبوا اولئك بواو", "expected_intent": "switch", "expected_lesson_id": "L4.07"}
+{"current_lesson_id": "L4.06", "message": "ليش لكن ماتنكتب بالالف", "expected_intent": "switch", "expected_lesson_id": "L4.08"}
+{"current_lesson_id": "L4.07", "message": "words where the alif is dropped like haadhaa", "expected_intent": "switch", "expected_lesson_id": "L4.08"}
+{"current_lesson_id": "L4.08", "message": "الالف اللينه بآخر الكلمه", "expected_intent": "switch", "expected_lesson_id": "L4.09"}
+{"current_lesson_id": "L3.07", "message": "مصطفى ليش بالياء", "expected_intent": "switch", "expected_lesson_id": "L4.09"}
+{"current_lesson_id": "L4.09", "message": "ابي تطبيق شامل على المستوى الرابع", "expected_intent": "switch", "expected_lesson_id": "L4.10"}
+{"current_lesson_id": "L0.05", "message": "ابي اتلم حرف الفا", "expected_intent": "switch", "expected_lesson_id": "L0.06"}
+{"current_lesson_id": "L1.01", "message": "الشدة ّ وش هي يا استاذ", "expected_intent": "switch", "expected_lesson_id": "L3.02"}
+{"current_lesson_id": "L2.02", "message": "اابي اتعلم الهمزه المتوسطه", "expected_intent": "switch", "expected_lesson_id": "L4.03"}
+{"current_lesson_id": "L3.07", "message": "ابي اعرف افر بين ت و ة", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.03", "message": "متى اكتب الهمزة على واو", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.04", "message": "I want to learn tanween", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L0.01", "message": "ودي اتعلم الباء والتاء", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.02", "message": "التشديد كيف", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.06", "message": "الحروف الشمسيه ابي اعرفها", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.09", "message": "مصطفى ليش بالياء", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L1.02", "message": "طيب كتب ليش كل حروفها مفتوحه", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L0.02", "message": "يعني الحاء مافيها نقطه ابد؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L2.02", "message": "ليش ما نحط ضمه بدل الكسره في فهم", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.01", "message": "طيب والسكون يجي في آخر الكلمه بعد؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.05", "message": "طيب الياء حرف قمري ولا شمسي", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.01", "message": "وش الفرق بين اكتب وأكتب في هذا الدرس", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.08", "message": "طيب هذه نكتبها بالالف ولا لا", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L0.07", "message": "How is waaw different from other letters here?", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L2.04", "message": "Can you give me another example like kutiba?", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.03", "message": "يعني يقول فيها واو مد؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.05", "message": "طيب لؤلؤ ليش فيها همزتين", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L0.04", "message": "الصاد فيها نقطه؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L1.01", "message": "كيف انطق جَ", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.07", "message": "طيب يدعو ليش مافيها الف بعد الواو", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L4.06", "message": "Why is it inna after qaala?", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L2.01", "message": "يعني الضمه فوق الحرف دايم؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L0.08", "message": "طيب الهمزه تنكتب لحالها على السطر؟", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.07", "message": "طيب بنت ليش بالتاء المفتوحه", "expected_intent": "stay", "expected_lesson_id": null}
+{"current_lesson_id": "L3.07", "message": "ايه جاهز", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L1.02", "message": "خلاص اختبرني", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L0.01", "message": "I'm ready", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L2.03", "message": "يلا نبدا الاختبار", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L4.03", "message": "جاهز للاختبار", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L3.02", "message": "test me now", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L0.05", "message": "انا مستعد", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L2.05", "message": "ابي اختبار الحين", "expected_intent": "ready", "expected_lesson_id": null}
+{"current_lesson_id": "L2.02", "message": "السلام عليكم", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L3.04", "message": "شكرا يا استاذ", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L0.03", "message": "hello", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L1.01", "message": "وش اخبارك", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L4.02", "message": "انا تعبان اليوم", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L3.06", "message": "ابي العب كوره", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L2.04", "message": "thanks, that was helpful", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L0.06", "message": "كم الساعه", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L4.09", "message": "هههه", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L3.01", "message": "مين انت؟", "expected_intent": "chat", "expected_lesson_id": null}
+{"current_lesson_id": "L2.02", "message": "ابي شي اصعب", "expected_intent": "switch", "expected_lesson_id": "L2.03", "accept_unsure": true}
+{"current_lesson_id": "L3.04", "message": "الدرس اللي بعده", "expected_intent": "switch", "expected_lesson_id": "L3.05", "accept_unsure": true}
+{"current_lesson_id": "L1.01", "message": "something harder please", "expected_intent": "switch", "expected_lesson_id": "L1.02", "accept_unsure": true}
+{"current_lesson_id": "L0.04", "message": "خلصت هذا ابي اللي بعده", "expected_intent": "switch", "expected_lesson_id": "L0.05", "accept_unsure": true}
+{"current_lesson_id": "L4.03", "message": "next lesson", "expected_intent": "switch", "expected_lesson_id": "L4.04", "accept_unsure": true}
+{"current_lesson_id": "L3.01", "message": "ابي اتقدم شوي", "expected_intent": "switch", "expected_lesson_id": "L3.02", "accept_unsure": true}
+{"current_lesson_id": "L2.02", "message": "ابي اتعلم التاء المربوطه بدال الاختبار", "expected_intent": "switch", "expected_lesson_id": "L3.07", "mode": "test"}
+{"current_lesson_id": "L1.02", "message": "stop, I'd rather learn hamza at the end of words", "expected_intent": "switch", "expected_lesson_id": "L4.05", "mode": "test"}
+{"current_lesson_id": "L3.01", "message": "وقف الاختبار ابي اتعلم الشده", "expected_intent": "switch", "expected_lesson_id": "L3.02", "mode": "test"}
+{"current_lesson_id": "L0.03", "message": "ابي اروح لدرس التنوين", "expected_intent": "switch", "expected_lesson_id": "L3.04", "mode": "test"}
+{"current_lesson_id": "L4.01", "message": "علمني الالف المقصوره", "expected_intent": "switch", "expected_lesson_id": "L4.09", "mode": "test"}
+{"current_lesson_id": "L2.03", "message": "وقف الاختبار ابي ارجع للدرس", "expected_intent": "stop", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L3.07", "message": "I want to stop the test and study more", "expected_intent": "stop", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L1.01", "message": "خلاص ما ابي اكمل الاختبار نرجع نذاكر", "expected_intent": "stop", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L2.01", "message": "وين اكتب؟", "expected_intent": "chat", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L3.04", "message": "كيف امسح اللي كتبته", "expected_intent": "chat", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L3.07", "message": "التاء المربوطه كيف اعرفها", "expected_intent": "stay", "expected_lesson_id": null, "mode": "test"}
+{"current_lesson_id": "L0.05", "message": "ايه جاهز", "expected_intent": "ready", "expected_lesson_id": null, "mode": "test"}
